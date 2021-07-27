@@ -1,2 +1,3 @@
 export function multiply(x: number, y: number) {
-// TODO: WIP, implement it tomorrow...
+    return x * y;
+}
